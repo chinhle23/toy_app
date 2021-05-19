@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.6'
 
 # https://github.com/mhartl/rails_tutorial_4th_edition_gemfiles/blob/master/toy_app/Gemfile
-gem 'puma',         '3.9.1'
+gem 'puma',         '4.3.8'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
